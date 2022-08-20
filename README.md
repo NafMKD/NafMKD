@@ -9,6 +9,14 @@
 
 - 🔭 I’m currently working on **Aplication Tracking System in Jimma University**
 
+- 🌱 I’m currently learning **MERN stack and Symfony**
+
+- 👯 I’m looking to collaborate on **any thing that is interesting**
+
+- 👨‍💻 All of my projects are available at [http://linose-studio.herokuapp.com/](http://linose-studio.herokuapp.com/)
+
+- 💬 Ask me about **Anything related to Programming**
+
 - 📫 How to reach me **guchemenberu32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
