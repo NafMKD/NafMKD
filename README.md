@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nafmkd" target="blank"><img src="https://img.shields.io/twitter/follow/nafmkd?logo=twitter&style=for-the-badge" alt="nafmkd" /></a> </p>
 
-- 🔭 I’m currently working on **Aplication Tracking System in Jimma University**
+- 🔭 I’m currently working on **Staff Evaluation System in Jimma University**
 
 - 🌱 I’m currently learning **MERN stack and Symfony**
 
